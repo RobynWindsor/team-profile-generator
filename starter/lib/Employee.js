@@ -23,7 +23,4 @@ class Employee {
   }
 }
 
-// const alex = new Employee();
-// console.log((typeof alex));
-
 module.exports = Employee;

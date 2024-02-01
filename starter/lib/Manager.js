@@ -3,7 +3,7 @@ const Employee = require('./Employee');
 
 class Manager extends Employee {
   constructor(name, id, email, officeNumber) {
-    // Call the constructor of the parent class (Employee)
+    // Call the constructor of the parent class
     super(name, id, email);
 
     // Set the github property
@@ -22,6 +22,3 @@ class Manager extends Employee {
 }
 
 module.exports = Manager;
-
-// officeNumber
-// getRole()—overridden to return 'Manager'
