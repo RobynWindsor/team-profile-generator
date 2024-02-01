@@ -1,10 +1,10 @@
 # Team Profile Generator
 
+![Screenshot 2024-02-01 204846](https://github.com/RobynWindsor/console-finances/assets/127926809/9751e2f3-2052-426a-80bb-92abd057e87e)
+
 ## Description
 
 The Team Profile Generator is a Node.js application designed to generate an HTML page containing profiles for a software development team. It utilizes user input through the command line to gather information about team members and then dynamically generates an HTML page to showcase their profiles. The application also incorporates Jest for testing to ensure the reliability and correctness of the codebase.
-
-https://robynwindsor.github.io/team-profile-generator/
 
 ## Features
 
